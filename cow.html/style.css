@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+   
+}
+
+
+
+h1
+        {
+            color: rgb(222, 14, 14);
+            text-align: center;
+            background-color: gray;
+            font-family: 'Gill Sans', sans-serif;
+            width: 50%;
+          
+        }
+          body
+        {
+            background-color: rgb(219, 107, 174);
+            color: blue;
+            font-family: 'Times New Roman', Times, serif;
+            
+            justify-content: center;
+           
+        }
+           
+            div
+            {
+                
+                width: 50%;
+                height: 50%;
+            }
+            #para
+            {
+                background-color: rgb(0, 255, 255);
+                color: rgb(0, 0, 0);
+                font-family: 'Gill Sans', sans-serif;
+                font-size: large;
+                text-align: center;
+                width: 20%;
+                height : 40%;
+            }
+            #nova
+            {
+                background-color: rgb(255, 0, 0);
+                color: rgb(255, 255, 255);
+                font-family: 'Gill Sans', sans-serif;
+                font-size: large;
+                text-align: center;
+                width: 20%;
+                height : 20%;
+            }
